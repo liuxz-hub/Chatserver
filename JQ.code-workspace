@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "memory_resource": "cpp",
+            "type_traits": "cpp",
+            "functional": "cpp"
+        }
+    }
+}
